@@ -1,0 +1,22 @@
+{
+  "name": "kdcoin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KHANHDANGBMT/Kdcoin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KHANHDANGBMT/Kdcoin/issues"
+  },
+  "homepage": "https://github.com/KHANHDANGBMT/Kdcoin#readme",
+  "dependencies": {
+    "crypto-js": "^4.0.0"
+  }
+}
