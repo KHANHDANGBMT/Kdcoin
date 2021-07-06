@@ -1,4 +1,5 @@
 # Kdcoin
-simulation blockchain mechanism
-proof-of-work
-transaction
+- simulation blockchain mechanism
+- proof-of-work
+- transaction
+- sign transaction using EC
