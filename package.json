@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/KHANHDANGBMT/Kdcoin#readme",
   "dependencies": {
-    "crypto-js": "^4.0.0"
+    "crypto-js": "^4.0.0",
+    "debug": "^4.3.2",
+    "elliptic": "^6.5.4"
   }
 }
